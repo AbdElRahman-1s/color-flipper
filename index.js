@@ -12,4 +12,4 @@ function generateRandomColor(){
   return `rgb(${r},${g},${b})`;
 }
 
-setColor("green");
+
